@@ -30,15 +30,6 @@ export const Hero = () => {
               Get Started Today
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-            
-            <Button 
-              variant="outline" 
-              size="lg"
-              className="border-2 border-white text-white hover:bg-white hover:text-blue-900 px-8 py-3 text-lg font-semibold rounded-full transition-all duration-300"
-            >
-              <PlayCircle className="mr-2 h-5 w-5" />
-              Watch Demo
-            </Button>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
